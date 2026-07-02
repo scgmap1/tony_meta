@@ -21,6 +21,7 @@
 
 ## Integrations (Step 6)
 - [x] Gmail API — tested, working
+- [x] GitHub — token working, tony_meta repo created and pushing
 - [ ] Gmail MCP server wired to Claude
 - [ ] GitHub MCP server wired to Claude
 - [ ] Google Calendar API + MCP
